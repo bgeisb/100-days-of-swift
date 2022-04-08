@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD1A942D2800478600C7B6F0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1A942C2800478600C7B6F0 /* DetailViewController.swift */; };
 		BDB998D627FF99760079B4BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB998D527FF99760079B4BF /* AppDelegate.swift */; };
 		BDB998D827FF99760079B4BF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB998D727FF99760079B4BF /* SceneDelegate.swift */; };
 		BDB998DA27FF99760079B4BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB998D927FF99760079B4BF /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD1A942C2800478600C7B6F0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		BDB998D227FF99760079B4BF /* swift-challenge-project-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-challenge-project-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDB998D527FF99760079B4BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDB998D727FF99760079B4BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				BDB998D527FF99760079B4BF /* AppDelegate.swift */,
 				BDB998D727FF99760079B4BF /* SceneDelegate.swift */,
 				BDB998D927FF99760079B4BF /* ViewController.swift */,
+				BD1A942C2800478600C7B6F0 /* DetailViewController.swift */,
 				BDB998DB27FF99760079B4BF /* Main.storyboard */,
 				BDB998DE27FF99780079B4BF /* Assets.xcassets */,
 				BDB998E027FF99780079B4BF /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				BDB998DA27FF99760079B4BF /* ViewController.swift in Sources */,
 				BDB998D627FF99760079B4BF /* AppDelegate.swift in Sources */,
 				BDB998D827FF99760079B4BF /* SceneDelegate.swift in Sources */,
+				BD1A942D2800478600C7B6F0 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
