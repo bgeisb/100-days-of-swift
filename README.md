@@ -1,6 +1,6 @@
 # 100 Days of Swift
 
-![17%](https://progress-bar.dev/17) 
+![18%](https://progress-bar.dev/18) 
 
 ## What's this repo for?
 This is a repository where I store my code and transcripts for [Paul Hudson’s 100 Days of Swift challenge](https://www.hackingwithswift.com/100). 👨‍💻
@@ -42,7 +42,7 @@ Now that you’ve mastered the basics of Swift, in these Days you’ll start bui
 
 - [x] Day 16 – Project 1, part one
 - [x] Day 17 – Project 1, part two
-- [ ] Day 18 – Project 1, part three
+- [x] Day 18 – Project 1, part three
 - [ ] Day 19 – Project 2, part one
 - [ ] Day 20 – Project 2, part two
 - [ ] Day 21 – Project 2, part three
