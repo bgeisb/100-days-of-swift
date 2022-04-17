@@ -28,7 +28,7 @@
 
 /* Begin PBXFileReference section */
 		BD1A942C2800478600C7B6F0 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
-		BDB998D227FF99760079B4BF /* swift-challenge-project-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-challenge-project-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BDB998D227FF99760079B4BF /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDB998D527FF99760079B4BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDB998D727FF99760079B4BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BDB998D927FF99760079B4BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 		BDB998C927FF99760079B4BF = {
 			isa = PBXGroup;
 			children = (
-				BDB998D427FF99760079B4BF /* swift-challenge-project-1 */,
+				BDB998D427FF99760079B4BF /* Project1 */,
 				BDB998D327FF99760079B4BF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,12 +70,12 @@
 		BDB998D327FF99760079B4BF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BDB998D227FF99760079B4BF /* swift-challenge-project-1.app */,
+				BDB998D227FF99760079B4BF /* Project1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BDB998D427FF99760079B4BF /* swift-challenge-project-1 */ = {
+		BDB998D427FF99760079B4BF /* Project1 */ = {
 			isa = PBXGroup;
 			children = (
 				BDB998D527FF99760079B4BF /* AppDelegate.swift */,
@@ -88,7 +88,7 @@
 				BDB998E327FF99780079B4BF /* Info.plist */,
 				BDB998E927FF9AA20079B4BF /* Content */,
 			);
-			path = "swift-challenge-project-1";
+			path = Project1;
 			sourceTree = "<group>";
 		};
 		BDB998E927FF9AA20079B4BF /* Content */ = {
@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BDB998D127FF99760079B4BF /* swift-challenge-project-1 */ = {
+		BDB998D127FF99760079B4BF /* Project1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDB998E627FF99780079B4BF /* Build configuration list for PBXNativeTarget "swift-challenge-project-1" */;
+			buildConfigurationList = BDB998E627FF99780079B4BF /* Build configuration list for PBXNativeTarget "Project1" */;
 			buildPhases = (
 				BDB998CE27FF99760079B4BF /* Sources */,
 				BDB998CF27FF99760079B4BF /* Frameworks */,
@@ -123,9 +123,9 @@
 			);
 			dependencies = (
 			);
-			name = "swift-challenge-project-1";
+			name = Project1;
 			productName = "swift-challenge-project-1";
-			productReference = BDB998D227FF99760079B4BF /* swift-challenge-project-1.app */;
+			productReference = BDB998D227FF99760079B4BF /* Project1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BDB998CD27FF99760079B4BF /* Build configuration list for PBXProject "swift-challenge-project-1" */;
+			buildConfigurationList = BDB998CD27FF99760079B4BF /* Build configuration list for PBXProject "Project1" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BDB998D127FF99760079B4BF /* swift-challenge-project-1 */,
+				BDB998D127FF99760079B4BF /* Project1 */,
 			);
 		};
 /* End PBXProject section */
@@ -343,7 +343,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PT3J32LBAU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "swift-challenge-project-1/Info.plist";
+				INFOPLIST_FILE = Project1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Project1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -371,7 +372,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PT3J32LBAU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "swift-challenge-project-1/Info.plist";
+				INFOPLIST_FILE = Project1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Project1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -393,7 +395,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BDB998CD27FF99760079B4BF /* Build configuration list for PBXProject "swift-challenge-project-1" */ = {
+		BDB998CD27FF99760079B4BF /* Build configuration list for PBXProject "Project1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BDB998E427FF99780079B4BF /* Debug */,
@@ -402,7 +404,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDB998E627FF99780079B4BF /* Build configuration list for PBXNativeTarget "swift-challenge-project-1" */ = {
+		BDB998E627FF99780079B4BF /* Build configuration list for PBXNativeTarget "Project1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BDB998E727FF99780079B4BF /* Debug */,
