@@ -1,6 +1,6 @@
 # 100 Days of Swift
 
-![22%](https://progress-bar.dev/22) 
+![23%](https://progress-bar.dev/23)
 
 ## What's this repo for?
 This is a repository where I store my code and transcripts for [Paul Hudson’s 100 Days of Swift challenge](https://www.hackingwithswift.com/100). 👨‍💻
@@ -53,7 +53,7 @@ Now that you’ve mastered the basics of Swift, in these Days you’ll start bui
 
 In the last few Days we covered some of the fundamentals of iOS development, and before we move on to the next set of projects it’s important to take a step back and review what you’ve learned.
 
-- [ ] Day 23 – Milestone: Projects 1-3
+- [x] Day 23 – Milestone: Projects 1-3
 
  
 ### Days 24-31: Web views, user input, and Auto Layout
