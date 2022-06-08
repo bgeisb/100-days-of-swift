@@ -1,6 +1,6 @@
 # 100 Days of Swift
 
-![24%](https://progress-bar.dev/24)
+![25%](https://progress-bar.dev/25)
 
 ## What's this repo for?
 This is a repository where I store my code and transcripts for [Paul Hudson’s 100 Days of Swift challenge](https://www.hackingwithswift.com/100). 👨‍💻
@@ -61,7 +61,7 @@ In the last few Days we covered some of the fundamentals of iOS development, and
 The next three projects we’re looking at will push your iOS skills further as you create some user interface in code, manage table views more carefully, and get some experience with closures.
 
 - [x] Day 24 – Project 4, part one
-- [ ] Day 25 – Project 4, part two
+- [x] Day 25 – Project 4, part two
 - [ ] Day 26 – Project 4, part three
 - [ ] Day 27 – Project 5, part one
 - [ ] Day 28 – Project 5, part two
